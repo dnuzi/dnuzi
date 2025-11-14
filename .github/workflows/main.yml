@@ -1,0 +1,112 @@
+
+name: 2019 Showcase Repo with Beautiful README and Graph
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 * * * *' # Optional: every hour
+
+permissions:
+  contents: write
+
+jobs:
+  generate-2019-commits:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+          clean: true
+
+      - name: Configure Git
+        run: |
+          git config --global user.name "dnuzi"
+          git config --global user.email "danuxz01@gmail.com"
+
+      - name: Create 2019 backdated commits
+        run: |
+          START_DATE="2019-01-01"
+          TOTAL_COMMITS=200
+          rm -f commit_*.txt
+
+          for i in $(seq 1 $TOTAL_COMMITS); do
+            FILE="commit_$i.txt"
+            echo "Backdated commit #$i for 2019 showcase" > $FILE
+
+            RANDOM_HOUR=$(shuf -i 0-23 -n 1)
+            RANDOM_MIN=$(shuf -i 0-59 -n 1)
+            RANDOM_SEC=$(shuf -i 0-59 -n 1)
+            COMMIT_DATE=$(date -d "$START_DATE +$i days $RANDOM_HOUR:$RANDOM_MIN:$RANDOM_SEC" --iso-8601=seconds)
+
+            git add $FILE
+            git commit --author="dnuzi <danuxz01@gmail.com>" \
+                       --date="$COMMIT_DATE" \
+                       -m "Backdated 2019 commit #$i"
+          done
+
+      - name: Create and update README
+        run: |
+          echo '<div align="center">' > README.md
+          echo '  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=DanuZz%27s%20Code%20Cosmos&fontSize=50&fontAlign=50&fontColor=ffffff&animation=fadeIn" alt="Header Banner" />' >> README.md
+          echo '  <h1>🌌 Welcome to DanuZz'\''s Cyber Galaxy 🌃</h1>' >> README.md
+          echo '  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1000&color=BB86FC&center=true&vCenter=true&width=600&lines=DanuXxxii+Developer+%7C+Bot+Architect;Crafting+the+Future+with+Code+and+Flair" alt="Typing SVG" />' >> README.md
+          echo '</div>' >> README.md
+          echo '' >> README.md
+          echo '---' >> README.md
+          echo '<div align="center">' >> README.md
+          echo '  <h2>👾 About DanuZz</h2>' >> README.md
+          echo '  <p>I'\''m <strong>DanuZz</strong>, a visionary developer from <strong>DanuXxxii</strong>, weaving code into digital art. I specialize in building AI-powered bots, sleek web apps, and futuristic solutions that blend innovation with style. 🌆</p>' >> README.md
+          echo '</div>' >> README.md
+          echo '' >> README.md
+          echo '* 🌍 **Location**: Ratnapura/Sabaragamuwa/SriLanka' >> README.md
+          echo '* 💻 **Role**: Full-Stack Developer | Bot Maestro' >> README.md
+          echo '* 🌱 **Exploring**: AI, Web3, Next.js, and immersive UI/UX' >> README.md
+          echo '* 🎯 **Goal**: To code solutions that inspire and captivate' >> README.md
+          echo '* ⚡ **Fun Fact**: I debug code with the precision of a cyber-samurai! 🗡️' >> README.md
+          echo '' >> README.md
+          echo '---' >> README.md
+          echo '<div align="center">' >> README.md
+          echo '  <h2>🛠️ Cyber Toolkit</h2>' >> README.md
+          echo '  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />' >> README.md
+          echo '  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />' >> README.md
+          echo '  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />' >> README.md
+          echo '  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />' >> README.md
+          echo '  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />' >> README.md
+          echo '  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />' >> README.md
+          echo '  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />' >> README.md
+          echo '  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />' >> README.md
+          echo '  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />' >> README.md
+          echo '</div>' >> README.md
+          echo '' >> README.md
+          echo '---' >> README.md
+          echo '<div align="center">' >> README.md
+          echo '  <h2>📊 Code Metrics</h2>' >> README.md
+          echo '  <img src="https://github-readme-stats.vercel.app/api?username=DanuZz&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=BB86FC&text_color=ffffff&icon_color=03DAC6" alt="DanuZz'\''s GitHub Stats" />' >> README.md
+          echo '  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanuZz&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=BB86FC&text_color=ffffff&icon_color=03DAC6" alt="Top Languages" />' >> README.md
+          echo '  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanuZz&theme=transparent&hide_border=true&background=0D1117&stroke=BB86FC&ring=BB86FC&fire=FF6F61&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=BB86FC&sideLabels=ffffff" alt="GitHub Streak" />' >> README.md
+          echo '</div>' >> README.md
+          echo '' >> README.md
+          echo '---' >> README.md
+          echo '' >> README.md
+          echo '# 2019 Commit Showcase' >> README.md
+          echo '' >> README.md
+          echo 'This repository contains 2019 backdated commits for showcase purposes.' >> README.md
+          echo '' >> README.md
+          echo '## Commit graph (simplified)' >> README.md
+          for i in $(seq 1 $TOTAL_COMMITS); do
+            echo "Day $i: █" >> README.md
+          done
+
+          git add README.md
+          git commit --author="dnuzi <danuxz01@gmail.com>" \
+                     --date="2019-12-31T23:59:00" \
+                     -m "Add 2019 showcase graph to README"
+
+      - name: Push all commits
+        run: |
+          git pull origin main --rebase || true
+          git push origin main
+          echo "✅ 2019 showcase with README + graph pushed successfully!"

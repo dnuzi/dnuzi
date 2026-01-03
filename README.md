@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=DanuZz%27s%20Code%20Cosmos&fontSize=50&fontAlign=50&fontColor=ffffff&animation=fadeIn" alt="Header Banner" />
+  <h1>🌌 Welcome to DanuZz's Cyber Galaxy 🌃</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1000&color=BB86FC&center=true&vCenter=true&width=600&lines=DanuXxxii+Developer+%7C+Bot+Architect;Crafting+the+Future+with+Code+and+Flair" alt="Typing SVG" />
+</div>
 
-<!--
-**dnuzi/dnuzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+<div align="center">
+  <h2>👾 About DanuZz</h2>
+  <p>I'm <strong>DanuZz</strong>, a visionary developer from <strong>DanuXxxii</strong>, weaving code into digital art. I specialize in building AI-powered bots, sleek web apps, and futuristic solutions that blend innovation with style. 🌆</p>
+</div>
 
-Here are some ideas to get you started:
+* 🌍 **Location**: Ratnapura/Sabaragamuwa/SriLanka
+* 💻 **Role**: Full-Stack Developer | Bot Maestro
+* 🌱 **Exploring**: AI, Web3, Next.js, and immersive UI/UX
+* 🎯 **Goal**: To code solutions that inspire and captivate
+* ⚡ **Fun Fact**: I debug code with the precision of a cyber-samurai! 🗡️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---

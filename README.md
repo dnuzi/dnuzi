@@ -1,4 +1,15 @@
-<h1 align="left" id="macropower-title"> @Danu'Zz Dev | Lk. </h1>
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/dnuzi/mova-npm-media/main/banner.webp"
+    alt="Header Banner"
+    width="500"
+    height="300"
+  />
+</div>
+
+---
+
+<h1 align="center" id="macropower-title"> @Danu'Zz Dev | Lk. </h1>
 <p align="left">
   <a href="https://www.movanest.xyz/">
    <img alt="Awesome" src="https://img.shields.io/badge/MovaNest-4A90E2?style=for-the-badge&logo=&logoColor=white">
@@ -28,16 +39,15 @@ Here are some ideas to get you started:
 ```bash
 #!/bin/bash
 
-🔭 currentJob=" Students :D"
-🌱 learning=" Learning about: Lua, React, and AI"
-🏔️ collaboration=" Tensura Interactive Project"
-💬 askMeAbout=" Anime, React, API, And More :D"
-📫 howToReachMe=" linkedin.com/in/jp-ryuhan-minamoto"
-🏎️ pronouns="Yuhan, Ryuhan, Han, Ohan"
-🤖 funFact=" AnimeLovers :D"
+🔭 currentJob="Student & Developer 🚀"
+🌱 learning="Learning about: Node.js, React, Python, AI"
+🏔️ collaboration="Portfolio • MovaNest • Open-Source Projects"
+💬 askMeAbout="Apps, APIs, Node.js, React, Automation"
+📫 howToReachMe="danuz.dev@gmail.com"
+🏎️ pronouns="DaNuX, DanuZz, DXZ"
+🤖 funFact="App Builder 🤖 | Anime Lover ❤️ | Code 24/7"
 
-info="$currentJob\n$learning\n$collaboration\n$askMeAbout\n$howToReachMe\
-n$pronouns\n$funFact"
+info="$currentJob\n$learning\n$collaboration\n$askMeAbout\n$howToReachMe\n$pronouns\n$funFact"
 
 echo -e "$info"
 
@@ -45,8 +55,8 @@ echo -e "$info"
   
 </td>
 <td width="40%" height="100%">
-<img align="right" width="100%" height="1000%" 
-src="https://raw.githubusercontent.com/dnuzi/mova-npm-media/main/banner.webp" alt="Embedded GIF">
+<img align="right" width="100%" height="100%" 
+src="https://media1.tenor.com/m/qeyN2cl_GBsAAAAC/lain.gif" alt="Embedded GIF">
 </td>
   </tr>
 </table>

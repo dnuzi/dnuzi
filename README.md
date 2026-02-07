@@ -72,7 +72,17 @@ src="https://media1.tenor.com/m/qeyN2cl_GBsAAAAC/lain.gif" alt="Embedded GIF">
     <td><a href="https://www.typescriptlang.org/"><img align="left" alt="TypeScript" width="50px" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" style="padding-right:10px;" /></a></td>
     <td><a href="https://www.java.com/"><img align="left" alt="Java" width="50px" src="https://www.svgrepo.com/download/184143/java.svg" style="padding-right:10px;" /></a></td>
     <td><a href="https://www.rust-lang.org/"><img align="left" alt="Rust" width="50px" src="https://rustacean.net/assets/cuddlyferris.svg" style="padding-right:10px;" /></a></td>
-    <td><a href="https://deno.land/"><img align="left" alt="Deno" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Deno_2021.svg/512px-Deno_2021.svg.png?20220109092922" style="padding-right:10px;" /></a></td>
+    <td>
+  <a href="https://react.dev/">
+    <img
+      align="left"
+      alt="React"
+      width="50px"
+      src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
+      style="padding-right:10px;"
+    />
+  </a>
+</td>
   </tr>
   <tr>
     <td><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img align="left" alt="HTML5" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" /></a></td>

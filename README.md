@@ -112,7 +112,7 @@ fun_fact  : App Builder 🤖 | Anime Lover ❤️ | Code 24/7
 
 <a href="mailto:danuz.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-danuz.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/dnuzi"><img src="https://img.shields.io/badge/GitHub-dnuzi-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.dnuz.top"><img src="https://img.shields.io/badge/Portfolio-danuzz.movanest.xyz-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://www.dnuz.top"><img src="https://img.shields.io/badge/Portfolio-dnuz.top-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 
 <img src="./assets/footer.svg" width="100%" alt="Footer" />
 

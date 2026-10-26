@@ -8,7 +8,7 @@
 
 <a href="https://www.movanest.xyz/"><img alt="MovaNest" src="https://img.shields.io/badge/MovaNest-4A90E2?style=for-the-badge&logo=vercel&logoColor=white"></a>
 <a href="mailto:danuz.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://danuzz.movanest.xyz"><img alt="Website" src="https://img.shields.io/badge/Website-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+<a href="https://dnuz.top"><img alt="Website" src="https://img.shields.io/badge/Website-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
 <a href="https://github.com/dnuzi"><img alt="Followers" src="https://img.shields.io/github/followers/dnuzi?color=blue&logo=github&style=for-the-badge"></a>
 
 <img src="./assets/divider.svg" width="100%" alt="" />

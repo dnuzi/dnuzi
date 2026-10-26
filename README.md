@@ -1,113 +1,119 @@
 <div align="center">
-  <img
-    src="https://raw.githubusercontent.com/dnuzi/mova-npm-media/main/banner.webp"
-    alt="Header Banner"
-    width="500"
-    height="300"
-  />
+
+<img src="./assets/header.svg" width="100%" alt="Danu'Zz Dev" />
+
+<img src="./assets/typing.svg" alt="Typing animation" />
+
+<br/>
+
+<a href="https://www.movanest.xyz/"><img alt="MovaNest" src="https://img.shields.io/badge/MovaNest-4A90E2?style=for-the-badge&logo=vercel&logoColor=white"></a>
+<a href="mailto:danuz.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://danuzz.movanest.xyz"><img alt="Website" src="https://img.shields.io/badge/Website-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+<a href="https://github.com/dnuzi"><img alt="Followers" src="https://img.shields.io/github/followers/dnuzi?color=blue&logo=github&style=for-the-badge"></a>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
 </div>
 
----
-
-<h1 align="center" id="macropower-title"> @Danu'Zz Dev | Lk. </h1>
-<p align="left">
-  <a href="https://www.movanest.xyz/">
-   <img alt="Awesome" src="https://img.shields.io/badge/MovaNest-4A90E2?style=for-the-badge&logo=&logoColor=white">
-  </a>
-  <a href="danuz.dev@gmail.com">
-   <img alt="GCP" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-   <a href="https://danuzz.movanest.xyz">
-   <img alt="Portfolio" src="https://img.shields.io/badge/website-purple?style=for-the-badge&logo=next.js&logoColor=white">
-  </a>
-  <a href="https://github.com/dnuzi">
-     <img src="https://komarev.com/ghpvc/?username=dnuzi&style=for-the-badge&color=yellow" alt="page views">
-  </a>
- <a href="https://github.com/?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/dnuzi?color=blue&logo=github&style=for-the-badge">
-  </a>
-</p>
-
-<table width="100%" height="100%" >
-<tr width="60%" height="100%">
-<td >
-    <img align="left" width="18%" src="https://media.tenor.com/ef_emJau35YAAAAi/anime-anime-character.gif" alt="Embedded GIF">
-	
-### Hi there! 👋
-Here are some ideas to get you started:
-
-```bash
-#!/bin/bash
-
-🔭 currentJob="Student & Developer 🚀"
-🌱 learning="Learning about: Node.js, React, Python, AI"
-🏔️ collaboration="Portfolio • MovaNest • Open-Source Projects"
-💬 askMeAbout="Apps, APIs, Node.js, React, Automation"
-📫 howToReachMe="danuz.dev@gmail.com"
-🏎️ pronouns="DaNuX, DanuZz, DXZ"
-🤖 funFact="App Builder 🤖 | Anime Lover ❤️ | Code 24/7"
-
-info="$currentJob\n$learning\n$collaboration\n$askMeAbout\n$howToReachMe\n$pronouns\n$funFact"
-
-echo -e "$info"
-
-```
-  
-</td>
-<td width="40%" height="100%">
-<img align="right" width="100%" height="100%" 
-src="https://media1.tenor.com/m/qeyN2cl_GBsAAAAC/lain.gif" alt="Embedded GIF">
-</td>
-  </tr>
-</table>
-
+## 👤 About Me
 
 <table>
-  <tr>
-    <td><a href="https://golang.org/"><img align="left" alt="Golang" width="50px" src="https://www.svgrepo.com/show/452214/go.svg" style="padding-right:10px;" /></a></td>
-    <td><a href="https://www.python.org/"><img align="left" alt="Python" width="50px" src="https://www.svgrepo.com/show/452091/python.svg" style="padding-right:10px;" /></a></td>
-    <td><a href="https://isocpp.org/"><img align="left" alt="Cplusplus" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" style="padding-right:10px;" /></a></td>
-    <td><a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img align="left" alt="CSharp" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png" style="padding-right:10px;" /></a></td>
-    <td><a href="https://www.javascript.com/"><img align="left" alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" /></a></td>
-    <td><a href="https://www.typescriptlang.org/"><img align="left" alt="TypeScript" width="50px" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" style="padding-right:10px;" /></a></td>
-    <td><a href="https://www.java.com/"><img align="left" alt="Java" width="50px" src="https://www.svgrepo.com/download/184143/java.svg" style="padding-right:10px;" /></a></td>
-    <td><a href="https://www.rust-lang.org/"><img align="left" alt="Rust" width="50px" src="https://rustacean.net/assets/cuddlyferris.svg" style="padding-right:10px;" /></a></td>
-    <td>
-  <a href="https://react.dev/">
-    <img
-      align="left"
-      alt="React"
-      width="50px"
-      src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
-      style="padding-right:10px;"
-    />
-  </a>
+<tr>
+<td width="62%" valign="top">
+
+```yaml
+name      : H.K.B. Danupa Chithsara
+nicknames : DanuZz • Danu Bbh • Danu • DaNuX • DXZ
+age       : <!--AGE-->16<!--/AGE--> years old
+birthday  : 31st May 2010 🎂
+location  : Ratnapura, Sabaragamuwa Province, Sri Lanka 🇱🇰
+status    : Student & Developer 🚀
+learning  : Node.js • React • Python • AI
+asks_me   : Apps • APIs • Bots • Automation
+reach_me  : danuz.dev@gmail.com
+fun_fact  : App Builder 🤖 | Anime Lover ❤️ | Code 24/7
+```
+
 </td>
-  </tr>
-  <tr>
-    <td><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img align="left" alt="HTML5" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" /></a></td>
-    <td><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img align="left" alt="CSS3" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" /></a></td>
-    <td><a href="https://nodejs.org/"><img align="left" alt="Node.js" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" /></a></td>
-    <td><a href="https://streamlit.io/"><img align="left" alt="Streamlit" width="50px" src="https://streamlit.io/images/brand/streamlit-mark-color.svg" style="padding-right:10px;" /></a></td>
-    <td><a href="https://nextjs.org/"><img align="left" alt="NextJS" width="50px" src="https://ih1.redbubble.net/image.2299077473.8760/st,small,507x507-pad,600x600,f8f8f8.jpg" style="padding-right:10px;" /></a></td>
-    <td><a href="https://github.com/"><img align="left" alt="Github" width="50px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" style="padding-right:10px;" /></a></td>
-    <td><a href="https://about.gitlab.com/"><img align="left" alt="Gitlab" width="50px" src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" style="padding-right:10px;" /></a></td>
-    <td><a href="https://git-scm.com/"><img align="left" alt="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" /></a></td>
-    <td><a href="https://www.docker.com/"><img align="left" alt="Docker" width="50px" src="https://www.svgrepo.com/show/303231/docker-logo.svg" style="padding-right:10px;" /></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://aws.amazon.com/"><img align="left" alt="AWS" width="50px" src="https://www.svgrepo.com/show/448266/aws.svg" style="padding-right:10px;" /></a></td>
-    <td><a href="https://cloud.google.com/"><img align="left" alt="GoogleCloud" width="50px" src="https://www.svgrepo.com/show/448223/gcp.svg" style="padding-right:10px;" /></a></td>
-    <td><a href="https://www.mongodb.com/"><img align="left" alt="MongoDB" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" /></a></td>
-    <td><a href="https://graphql.org/"><img align="left" alt="GraphQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" /></a></td>
-    <td><a href="https://firebase.google.com/"><img align="left" alt="Firebase" width="50px" src="https://www.svgrepo.com/show/353735/firebase.svg" style="padding-right:10px;" /></a></td>
-    <td><a href="https://fastapi.tiangolo.com/"><img align="left" alt="FastAPI" width="50px" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" style="padding-right:10px;" /></a></td>
-    <td><a href="https://supabase.com/"><img align="left" alt="Supabase" width="50px" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/299/square_480/supabase-logo-icon_1.png" style="padding-right:10px;" /></a></td>
-    <td><a href="https://www.mysql.com/"><img align="left" alt="MySQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" /></a></td>
-    <td><a href="https://www.postgresql.org/"><img align="left" alt="PostgreSQL" width="50px" src="https://www.svgrepo.com/show/354200/postgresql.svg" style="padding-right:10px;" /></a></td>
-  </tr>
+<td width="38%" align="center" valign="middle">
+
+<img src="https://media1.tenor.com/m/qeyN2cl_GBsAAAAC/lain.gif" width="100%" alt="Lain" />
+
+</td>
+</tr>
 </table>
 
+<!-- School (uncomment if you want it public):
+🏫 R/Dharmaloka College, Pelmadulla
+-->
 
+<div align="center">
+<img src="./assets/cards.svg" width="100%" alt="Student, Builder, Learning" />
+</div>
 
-![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dnuzi&theme=github-compact&custom_title=@Danu'Zz%20Activity%20Graph&hide_border=true)
+### ✨ A little more about me
+
+- 🌟 A **cute & fronted developer** from Sri Lanka who loves turning ideas into working products
+- 🤖 I build **WhatsApp bots, Telegram tools, scraper APIs and full web apps**
+- 🎓 Student by day, **night-owl coder** by night 🌙
+- 🌏 Proud to represent **Sri Lanka** in the open-source world
+- 🤝 Open to collaborating on **Portfolio • MovaNest • Open-Source projects**
+- 🎌 Anime and lo-fi beats power my best commits
+- 🚀 Goal: build tools that thousands of people actually use
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## 🛠️ Tech Stack
+
+<div align="center">
+<img src="./assets/skills.svg" width="100%" alt="Tech stack" />
+</div>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=dnuzi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=8A2BE2&include_all_commits=true&count_private=true" alt="Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnuzi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF" alt="Top Languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=dnuzi&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF" alt="Streak" />
+
+</div>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dnuzi/dnuzi/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dnuzi/dnuzi/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/dnuzi/dnuzi/output/github-snake-dark.svg" />
+</picture>
+</div>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## 👀 Visitor's Count
+
+<div align="center">
+<img src="https://visitors-snowy.vercel.app/api/counter?name=dnuzi&theme=neon" alt="Visitor's Count" />
+</div>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## 🔗 Connect With Me
+
+<div align="center">
+
+<a href="mailto:danuz.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-danuz.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/dnuzi"><img src="https://img.shields.io/badge/GitHub-dnuzi-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://danuzz.movanest.xyz"><img src="https://img.shields.io/badge/Portfolio-danuzz.movanest.xyz-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+
+<img src="./assets/footer.svg" width="100%" alt="Footer" />
+
+</div>

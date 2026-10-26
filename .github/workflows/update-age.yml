@@ -1,0 +1,27 @@
+name: Update Age
+
+on:
+  schedule:
+    - cron: "30 18 * * *"   # 00:00 Sri Lanka time every day
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-age:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Calculate age and update README
+        run: |
+          TODAY=$(TZ="Asia/Colombo" date +%Y%m%d)
+          AGE=$(( (TODAY - 20100531) / 10000 ))
+          sed -i -E "s|<!--AGE-->[0-9]+<!--/AGE-->|<!--AGE-->${AGE}<!--/AGE-->|" README.md
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet || (git add README.md && git commit -m "chore: update age" && git push)

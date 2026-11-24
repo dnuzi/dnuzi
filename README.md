@@ -35,12 +35,12 @@
 name      : H.K.B. Danupa Chithsara
 nicknames : DanuZz • DaNuX • DXZ
 age       : <!--AGE-->16<!--/AGE--> years old
-location  : Sri Lanka 🇱🇰
-status    : Student & Developer 🚀
+location  : Sri Lanka
+status    : Student & Developer
 learning  : Node.js • React • Python • AI
 asks_me   : Apps • APIs • Bots • Automation
 reach_me  : danuz.dev@gmail.com
-fun_fact  : Anime lover ❤️ | Code 24/7
+fun_fact  : Anime lover | Code 24/7
 ```
 
 </td>
@@ -63,6 +63,10 @@ I'm **Danu'Zz**, a student developer from **Sri Lanka** who loves turning ideas 
 <img src="https://img.shields.io/badge/Night_Owl-A78BFA?style=flat-square&labelColor=0d1117"/>
 <img src="https://img.shields.io/badge/Anime_Lover-FF4D9D?style=flat-square&labelColor=0d1117"/>
 
+</div>
+
+<div align="center">
+<img src="assets/trio.svg" width="100%" alt="Student, Builder, Learning"/>
 </div>
 
 <img src="assets/section-build.svg" width="100%" alt="What I build"/>
@@ -114,6 +118,12 @@ I'm **Danu'Zz**, a student developer from **Sri Lanka** who loves turning ideas 
 <img src="assets/focus.svg" width="100%" alt="Currently learning: Node.js, React, Python and AI"/>
 </div>
 
+<img src="assets/section-principles.svg" width="100%" alt="Principles"/>
+
+<div align="center">
+<img src="assets/principles.svg" width="100%" alt="Principles: build something real, ship and learn, UX is engineering, open source"/>
+</div>
+
 <img src="assets/section-activity.svg" width="100%" alt="GitHub activity"/>
 
 <div align="center">
@@ -158,9 +168,7 @@ WhatsApp and Telegram bots, scraper and REST APIs, automation scripts, and full 
 
 <div align="center">
 
-### Don't just use technology. Build with it.
-
-`Build.` `Break.` `Learn.` `Rebuild.` `Ship.`
+<img src="assets/mission.svg" width="100%" alt="Don't just use technology. Build with it."/>
 
 <br/>
 

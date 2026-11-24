@@ -179,6 +179,6 @@ WhatsApp and Telegram bots, scraper and REST APIs, automation scripts, and full 
 
 <br/><br/>
 
-<img src="assets/footer.svg" width="100%" alt="Made with love in Sri Lanka by Danu'Zz"/>
+<a href="mailto:danuz.dev@gmail.com"><img src="assets/footer.svg" width="100%" alt="Let's build something great. Say hello at danuz.dev@gmail.com"/></a>
 
 </div>

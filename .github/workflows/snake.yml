@@ -30,6 +30,8 @@ jobs:
       - name: Frame snake
         run: |
           python3 .github/scripts/frame_snake.py dist/snake-raw.svg dist/github-snake.svg
+          # the README references both names; the frame is already dark-styled, so reuse it
+          cp dist/github-snake.svg dist/github-snake-dark.svg
           rm dist/snake-raw.svg
 
       # 3. publish to the output branch

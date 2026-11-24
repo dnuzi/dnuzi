@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/scripts/frame_snake.py"
+      - ".github/workflows/snake.yml"
 
 permissions:
   contents: write
@@ -12,13 +17,22 @@ jobs:
   snake:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+
+      # 1. generate the raw snake with a custom cyan / pink palette
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: dnuzi
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/snake-raw.svg?color_snake=#FF4D9D&color_dots=#151b2e,#0b4f63,#0a8da8,#00c2dc,#00f7ff
 
+      # 2. wrap it in the premium glass frame
+      - name: Frame snake
+        run: |
+          python3 .github/scripts/frame_snake.py dist/snake-raw.svg dist/github-snake.svg
+          rm dist/snake-raw.svg
+
+      # 3. publish to the output branch
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output

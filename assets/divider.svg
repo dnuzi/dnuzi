@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 24" width="1000" height="24" role="img" aria-label="divider">
+<defs><linearGradient id="d" x1="0" x2="1"><stop offset="0" stop-color="#00F7FF" stop-opacity="0"/><stop offset=".25" stop-color="#00F7FF"/><stop offset=".5" stop-color="#A78BFA"/><stop offset=".75" stop-color="#FF4D9D"/><stop offset="1" stop-color="#FF4D9D" stop-opacity="0"/></linearGradient></defs>
+<rect x="40" y="11" width="920" height="2" rx="1" fill="url(#d)" opacity=".55"/>
+<path d="M500 3 L508 12 L500 21 L492 12Z" fill="#0b0f1a" stroke="#A78BFA"><animateTransform attributeName="transform" type="rotate" values="0 500 12;180 500 12;360 500 12" dur="6s" repeatCount="indefinite"/></path>
+<circle cy="12" r="3.5" fill="#fff"><animate attributeName="cx" values="40;960;40" dur="7s" repeatCount="indefinite"/></circle>
+<circle cy="12" r="9" fill="#00F7FF" opacity=".25"><animate attributeName="cx" values="40;960;40" dur="7s" repeatCount="indefinite"/></circle>
+</svg>

@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 450" width="1000" height="450" role="img" aria-label="bento">
+<defs><linearGradient id="g" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1000" y2="0" spreadMethod="reflect"><stop offset="0" stop-color="#00F7FF"/><stop offset=".5" stop-color="#A78BFA"/><stop offset="1" stop-color="#FF4D9D"/><animateTransform attributeName="gradientTransform" type="translate" values="-300 0;300 0;-300 0" dur="6s" repeatCount="indefinite"/></linearGradient></defs>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -3;0 0" dur="4s" begin="0.0s" repeatCount="indefinite"/>
+<rect x="24" y="20" width="304" height="195" rx="18" fill="#0d1117" stroke="#21262d"/>
+<rect x="24" y="20" width="304" height="195" rx="18" fill="none" stroke="#00F7FF" stroke-width="1.6" pathLength="100" stroke-dasharray="16 84" stroke-linecap="round">
+<animate attributeName="stroke-dashoffset" from="100" to="0" dur="6s" begin="0.0s" repeatCount="indefinite"/></rect>
+<circle cx="70" cy="70" r="28" fill="#00F7FF" fill-opacity=".1" stroke="#00F7FF" stroke-opacity=".35"/>
+<g transform="translate(70 70)"><g fill="none" stroke="#00F7FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="-11" y="-6" width="22" height="16" rx="5"/><path d="M0 -6V-12"/><circle cx="0" cy="-14" r="2"/><circle cx="-4" cy="2" r="1.5" fill="#00F7FF"/><circle cx="4" cy="2" r="1.5" fill="#00F7FF"/></g></g>
+<text x="110" y="66" font-family="Consolas, Menlo, Courier New, monospace" font-size="12" letter-spacing="3" fill="#00F7FF">01</text>
+<text x="110" y="88" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="20" font-weight="800" letter-spacing="2" fill="#fff">BOTS</text>
+<text x="48" y="132" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#c9d1d9">WhatsApp &amp; Telegram bots</text>
+<text x="48" y="154" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="14" fill="#8b949e">that automate real chats</text>
+<rect x="48" y="167" width="80" height="26" rx="13" fill="#00F7FF" fill-opacity=".1" stroke="#00F7FF" stroke-opacity=".4"/><text x="88.0" y="185" text-anchor="middle" font-family="Consolas, Menlo, Courier New, monospace" font-size="12" fill="#00F7FF">Node.js</text><rect x="136" y="167" width="72" height="26" rx="13" fill="#00F7FF" fill-opacity=".1" stroke="#00F7FF" stroke-opacity=".4"/><text x="172.0" y="185" text-anchor="middle" font-family="Consolas, Menlo, Courier New, monospace" font-size="12" fill="#00F7FF">Python</text></g><g><animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="5s" begin="0.4s" repeatCount="indefinite"/>
+<rect x="348" y="20" width="304" height="195" rx="18" fill="#0d1117" stroke="#21262d"/>
+<rect x="348" y="20" width="304" height="195" rx="18" fill="none" stroke="#A78BFA" stroke-width="1.6" pathLength="100" stroke-dasharray="16 84" stroke-linecap="round">
+<animate attributeName="stroke-dashoffset" from="100" to="0" dur="6s" begin="0.7s" repeatCount="indefinite"/></rect>
+<circle cx="394" cy="70" r="28" fill="#A78BFA" fill-opacity=".1" stroke="#A78BFA" stroke-opacity=".35"/>
+<g transform="translate(394 70)"><text x="0" y="6" text-anchor="middle" font-family="Consolas, Menlo, Courier New, monospace" font-size="19" font-weight="700" fill="#A78BFA">{ }</text></g>
+<text x="434" y="66" font-family="Consolas, Menlo, Courier New, monospace" font-size="12" letter-spacing="3" fill="#A78BFA">02</text>
+<text x="434" y="88" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="20" font-weight="800" letter-spacing="2" fill="#fff">APIs</text>
+<text x="372" y="132" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#c9d1d9">REST &amp; scraper APIs</text>
+<text x="372" y="154" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="14" fill="#8b949e">fast, clean, documented</text>
+<rect x="372" y="167" width="56" height="26" rx="13" fill="#A78BFA" fill-opacity=".1" stroke="#A78BFA" stroke-opacity=".4"/><text x="400.0" y="185" text-anchor="middle" font-family="Consolas, Menlo, Courier New, monospace" font-size="12" fill="#A78BFA">REST</text><rect x="436" y="167" width="88" height="26" rx="13" fill="#A78BFA" fill-opacity=".1" stroke="#A78BFA" stroke-opacity=".4"/><text x="480.0" y="185" text-anchor="middle" font-family="Consolas, Menlo, Courier New, monospace" font-size="12" fill="#A78BFA">Scraping</text></g><g><animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="6s" begin="0.8s" repeatCount="indefinite"/>
+<rect x="672" y="20" width="304" height="195" rx="18" fill="#0d1117" stroke="#21262d"/>
+<rect x="672" y="20" width="304" height="195" rx="18" fill="none" stroke="#FF4D9D" stroke-width="1.6" pathLength="100" stroke-dasharray="16 84" stroke-linecap="round">
+<animate attributeName="stroke-dashoffset" from="100" to="0" dur="6s" begin="1.4s" repeatCount="indefinite"/></rect>
+<circle cx="718" cy="70" r="28" fill="#FF4D9D" fill-opacity=".1" stroke="#FF4D9D" stroke-opacity=".35"/>
+<g transform="translate(718 70)"><g fill="none" stroke="#FF4D9D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="-12" y="-10" width="24" height="20" rx="4"/><path d="M-12 -3H12"/><path d="M-4 3l-3 2.5 3 2.5M4 3l3 2.5-3 2.5"/></g></g>
+<text x="758" y="66" font-family="Consolas, Menlo, Courier New, monospace" font-size="12" letter-spacing="3" fill="#FF4D9D">03</text>
+<text x="758" y="88" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="20" font-weight="800" letter-spacing="2" fill="#fff">WEB APPS</text>
+<text x="696" y="132" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#c9d1d9">Full web apps</text>
+<text x="696" y="154" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="14" fill="#8b949e">React, Next.js, polished UI</text>
+<rect x="696" y="167" width="64" height="26" rx="13" fill="#FF4D9D" fill-opacity=".1" stroke="#FF4D9D" stroke-opacity=".4"/><text x="728.0" y="185" text-anchor="middle" font-family="Consolas, Menlo, Courier New, monospace" font-size="12" fill="#FF4D9D">React</text><rect x="768" y="167" width="80" height="26" rx="13" fill="#FF4D9D" fill-opacity=".1" stroke="#FF4D9D" stroke-opacity=".4"/><text x="808.0" y="185" text-anchor="middle" font-family="Consolas, Menlo, Courier New, monospace" font-size="12" fill="#FF4D9D">Next.js</text></g><g><animateTransform attributeName="transform" type="translate" values="0 0;0 -3;0 0" dur="4s" begin="1.2000000000000002s" repeatCount="indefinite"/>
+<rect x="24" y="235" width="304" height="195" rx="18" fill="#0d1117" stroke="#21262d"/>
+<rect x="24" y="235" width="304" height="195" rx="18" fill="none" stroke="#00F7FF" stroke-width="1.6" pathLength="100" stroke-dasharray="16 84" stroke-linecap="round">
+<animate attributeName="stroke-dashoffset" from="100" to="0" dur="6s" begin="2.0999999999999996s" repeatCount="indefinite"/></rect>
+<circle cx="70" cy="285" r="28" fill="#00F7FF" fill-opacity=".1" stroke="#00F7FF" stroke-opacity=".35"/>
+<g transform="translate(70 285)"><g fill="none" stroke="#00F7FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M-9 -3a10 10 0 0 1 17 -4"/><path d="M9 -11v5h-5"/><path d="M9 3a10 10 0 0 1 -17 4"/><path d="M-9 11v-5h5"/></g></g>
+<text x="110" y="281" font-family="Consolas, Menlo, Courier New, monospace" font-size="12" letter-spacing="3" fill="#00F7FF">04</text>
+<text x="110" y="303" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="20" font-weight="800" letter-spacing="2" fill="#fff">AUTOMATION</text>
+<text x="48" y="347" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#c9d1d9">Scripts &amp; workflows</text>
+<text x="48" y="369" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="14" fill="#8b949e">boring tasks, handled</text>
+<rect x="48" y="382" width="56" height="26" rx="13" fill="#00F7FF" fill-opacity=".1" stroke="#00F7FF" stroke-opacity=".4"/><text x="76.0" y="400" text-anchor="middle" font-family="Consolas, Menlo, Courier New, monospace" font-size="12" fill="#00F7FF">Node</text><rect x="112" y="382" width="72" height="26" rx="13" fill="#00F7FF" fill-opacity=".1" stroke="#00F7FF" stroke-opacity=".4"/><text x="148.0" y="400" text-anchor="middle" font-family="Consolas, Menlo, Courier New, monospace" font-size="12" fill="#00F7FF">Python</text></g><g><animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="5s" begin="1.6s" repeatCount="indefinite"/>
+<rect x="348" y="235" width="304" height="195" rx="18" fill="#0d1117" stroke="#21262d"/>
+<rect x="348" y="235" width="304" height="195" rx="18" fill="none" stroke="#A78BFA" stroke-width="1.6" pathLength="100" stroke-dasharray="16 84" stroke-linecap="round">
+<animate attributeName="stroke-dashoffset" from="100" to="0" dur="6s" begin="2.8s" repeatCount="indefinite"/></rect>
+<circle cx="394" cy="285" r="28" fill="#A78BFA" fill-opacity=".1" stroke="#A78BFA" stroke-opacity=".35"/>
+<g transform="translate(394 285)"><g fill="none" stroke="#A78BFA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M0 -12C1 -4 4 -1 12 0 4 1 1 4 0 12-1 4-4 1-12 0-4-1-1-4 0-12Z"/></g></g>
+<text x="434" y="281" font-family="Consolas, Menlo, Courier New, monospace" font-size="12" letter-spacing="3" fill="#A78BFA">05</text>
+<text x="434" y="303" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="20" font-weight="800" letter-spacing="2" fill="#fff">AI TOOLS</text>
+<text x="372" y="347" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#c9d1d9">AI-powered features</text>
+<text x="372" y="369" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="14" fill="#8b949e">learning &amp; shipping daily</text>
+<rect x="372" y="382" width="56" height="26" rx="13" fill="#A78BFA" fill-opacity=".1" stroke="#A78BFA" stroke-opacity=".4"/><text x="400.0" y="400" text-anchor="middle" font-family="Consolas, Menlo, Courier New, monospace" font-size="12" fill="#A78BFA">LLMs</text><rect x="436" y="382" width="72" height="26" rx="13" fill="#A78BFA" fill-opacity=".1" stroke="#A78BFA" stroke-opacity=".4"/><text x="472.0" y="400" text-anchor="middle" font-family="Consolas, Menlo, Courier New, monospace" font-size="12" fill="#A78BFA">Python</text></g><g><animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="6s" begin="2.0s" repeatCount="indefinite"/>
+<rect x="672" y="235" width="304" height="195" rx="18" fill="#0d1117" stroke="#21262d"/>
+<rect x="672" y="235" width="304" height="195" rx="18" fill="none" stroke="#FF4D9D" stroke-width="1.6" pathLength="100" stroke-dasharray="16 84" stroke-linecap="round">
+<animate attributeName="stroke-dashoffset" from="100" to="0" dur="6s" begin="3.5s" repeatCount="indefinite"/></rect>
+<circle cx="718" cy="285" r="28" fill="#FF4D9D" fill-opacity=".1" stroke="#FF4D9D" stroke-opacity=".35"/>
+<g transform="translate(718 285)"><g fill="none" stroke="#FF4D9D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="-6" cy="-9" r="3"/><circle cx="-6" cy="9" r="3"/><circle cx="8" cy="-2" r="3"/><path d="M-6 -6V6"/><path d="M8 1c0 6 -14 3 -14 5"/></g></g>
+<text x="758" y="281" font-family="Consolas, Menlo, Courier New, monospace" font-size="12" letter-spacing="3" fill="#FF4D9D">06</text>
+<text x="758" y="303" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="20" font-weight="800" letter-spacing="2" fill="#fff">OPEN SOURCE</text>
+<text x="696" y="347" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#c9d1d9">Build in public</text>
+<text x="696" y="369" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="14" fill="#8b949e">collab on MovaNest &amp; more</text>
+<rect x="696" y="382" width="72" height="26" rx="13" fill="#FF4D9D" fill-opacity=".1" stroke="#FF4D9D" stroke-opacity=".4"/><text x="732.0" y="400" text-anchor="middle" font-family="Consolas, Menlo, Courier New, monospace" font-size="12" fill="#FF4D9D">GitHub</text><rect x="776" y="382" width="48" height="26" rx="13" fill="#FF4D9D" fill-opacity=".1" stroke="#FF4D9D" stroke-opacity=".4"/><text x="800.0" y="400" text-anchor="middle" font-family="Consolas, Menlo, Courier New, monospace" font-size="12" fill="#FF4D9D">MIT</text></g>
+</svg>
